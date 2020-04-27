@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\TQZ\GitHub\WindowsAPI_study\p5\Demo\Demo\main.cpp(9,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“TCHAR *”
+D:\TQZ\GitHub\WindowsAPI_study\p5\Demo\Demo\main.cpp(9,9): message : 请考虑在格式字符串中使用“%ls”
+D:\TQZ\GitHub\WindowsAPI_study\p5\Demo\Demo\main.cpp(9,9): message : 请考虑在格式字符串中使用“%lls”
+D:\TQZ\GitHub\WindowsAPI_study\p5\Demo\Demo\main.cpp(9,9): message : 请考虑在格式字符串中使用“%Ls”
+D:\TQZ\GitHub\WindowsAPI_study\p5\Demo\Demo\main.cpp(9,9): message : 请考虑在格式字符串中使用“%ws”
+  Demo.vcxproj -> D:\TQZ\GitHub\WindowsAPI_study\p5\Demo\Debug\Demo.exe
